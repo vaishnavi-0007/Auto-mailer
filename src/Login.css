@@ -45,7 +45,7 @@
   font-size: 14px;
 }
 
-/* Options row */
+/* ---------------------Options row */
 .options {
   display: flex;
   justify-content: space-between;
@@ -63,9 +63,9 @@
   text-decoration: underline;
 }
 
-/* Button aligned left */
+/* ---------------Btn(login) */
 .btn-left {
-  text-align: left; /* Pushes button to left */
+  text-align: left; 
 }
 
 .login-btn {
